@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Coverage reports
+coverage/
+
+# Production files
+*.local
+
+# React specific
+*.env.production
+*.env.development
